@@ -1,0 +1,121 @@
+ai_companies:
+  - name: NVIDIA Corporation
+    ticker: NVDA
+    industry: AI Hardware, GPUs, Deep Learning
+
+  - name: Microsoft Corporation
+    ticker: MSFT
+    industry: Cloud AI, OpenAI Investment, Software
+
+  - name: Alphabet Inc. (Google)
+    ticker: GOOGL
+    industry: AI Research, Cloud AI, DeepMind
+
+  - name: Amazon.com, Inc.
+    ticker: AMZN
+    industry: Cloud AI, Machine Learning, Voice Assistants
+
+  - name: Meta Platforms, Inc.
+    ticker: META
+    industry: Generative AI, Computer Vision, LLMs
+
+  - name: Tesla, Inc.
+    ticker: TSLA
+    industry: AI for Autonomous Vehicles, Robotics
+
+  - name: Advanced Micro Devices, Inc.
+    ticker: AMD
+    industry: AI Hardware, GPUs, Accelerators
+
+  - name: Intel Corporation
+    ticker: INTC
+    industry: AI Chips, Accelerators, Edge AI
+
+  - name: Palantir Technologies Inc.
+    ticker: PLTR
+    industry: AI-driven Data Analytics, Defense AI
+
+  - name: ServiceNow, Inc.
+    ticker: NOW
+    industry: AI-driven Enterprise Automation
+
+  - name: IBM Corporation
+    ticker: IBM
+    industry: AI Research, Watson AI, Enterprise AI
+
+  - name: Oracle Corporation
+    ticker: ORCL
+    industry: AI for Databases, Cloud AI Services
+
+  - name: Qualcomm Incorporated
+    ticker: QCOM
+    industry: AI Chips for Mobile and Edge Devices
+
+  - name: Broadcom Inc.
+    ticker: AVGO
+    industry: AI-focused Semiconductor Solutions
+
+  - name: Apple Inc.
+    ticker: AAPL
+    industry: AI for Consumer Devices, Siri, ML Hardware
+
+  - name: Arm Holdings plc
+    ticker: ARM
+    industry: AI-focused Processor Architectures
+
+  - name: Snowflake Inc.
+    ticker: SNOW
+    industry: AI-driven Data Cloud and Analytics
+
+  - name: C3.ai, Inc.
+    ticker: AI
+    industry: AI Enterprise Solutions, Predictive Analytics
+
+  - name: UiPath Inc.
+    ticker: PATH
+    industry: AI-driven Robotic Process Automation (RPA)
+
+  - name: Adobe Inc.
+    ticker: ADBE
+    industry: AI in Creative Software, Generative AI
+
+  - name: ASML Holding N.V.
+    ticker: ASML
+    industry: AI-powered Semiconductor Manufacturing
+
+  - name: Synopsys, Inc.
+    ticker: SNPS
+    industry: AI in Chip Design and EDA Tools
+
+  - name: Cadence Design Systems, Inc.
+    ticker: CDNS
+    industry: AI for Semiconductor and Circuit Design
+
+  - name: Salesforce, Inc.
+    ticker: CRM
+    industry: AI-driven CRM and Enterprise Automation
+
+  - name: CrowdStrike Holdings, Inc.
+    ticker: CRWD
+    industry: AI-driven Cybersecurity Solutions
+
+  - name: SentinelOne, Inc.
+    ticker: S
+    industry: AI for Endpoint Security
+
+  - name: Twilio Inc.
+    ticker: TWLO
+    industry: AI-powered Communication APIs
+
+  - name: Elastic N.V.
+    ticker: ESTC
+    industry: AI-powered Search and Observability
+
+  - name: Darktrace plc
+    ticker: DARK.L
+    industry: AI for Cybersecurity and Threat Detection
+
+  - name: Illumina, Inc.
+    ticker: ILMN
+    industry: AI for Genomics and Biotech
+
